@@ -42,7 +42,7 @@ The WHUT-MSFVessel dataset covers a variety of weather conditions, include sunny
 <img width="649" alt="diff_weather" src="https://github.com/user-attachments/assets/3b7dcea6-4010-45db-bde2-0d671e8f08e4">  
 
 More detailed information about different scenarios is provided in the following table.  
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Scene | Duration | NR | NV | MN | OC | Weather |
+| --- | --- | --- | --- | --- | --- | --- |
+| scene01 | 09m06s | 12 | 4 | 3 | 1 | Sunny |
+| scene02 | 04m20s | 25 | 7 | 6 | 3 | Cloudy |
