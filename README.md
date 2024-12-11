@@ -41,7 +41,7 @@ The WHUT-MSFVessel dataset covers a variety of weather conditions, include sunny
 
 <img width="649" alt="diff_weather" src="https://github.com/user-attachments/assets/3b7dcea6-4010-45db-bde2-0d671e8f08e4">  
 
-More detailed information about different scenarios is provided in the following table.  
+More detailed information about different scenarios is provided in the following table. The "NR", "NV", "MN", and "OC" represent the total number of radar target, the  total number of visible target, the maximum number of targets in camera view, and the number of occluded targets, respectively.    
 | Scene | Duration | NR | NV | MN | OC | Weather |
 | --- | --- | --- | --- | --- | --- | --- |
 | scene01 | 09m06s | 12 | 4 | 3 | 1 | Sunny |
