@@ -66,3 +66,9 @@ More detailed information about different scenarios is provided in the following
 | scene20 | 19m24s | 20 | 9 | 6 |  2 | Foggy |
 | scene21 | 31m36s | 27 | 9 | 6 | 0 | Foggy |
 | scene22 | 41m07s | 31 | 12 | 6 | 4 | Foggy |
+
+
+
+https://github.com/user-attachments/assets/1df8ebfe-4f2f-43f3-943f-8a8ac9973f2b
+
+
