@@ -8,18 +8,28 @@ The WHUT-MSFVessel dataset consists the data collect from different sensors, inc
 [MSF](https://github.com/user-attachments/assets/e5e8022b-8cbd-4df7-8d48-62a885676850)
 ### Details
 ```  
-project-name/  
+WHUT-MSFVessel/  
 │  
-├── dir1/  
-│   ├── file1.ext  
-│   └── file2.ext  
+├── scene01/
+│   ├── radar_images/
+│   │   ├── 2364714282.jpg
+│   │   ├── 2364716530.jpg  
+│   │   └── ...
+│   ├── visible_images/
+│   │   ├── 2364716724.jpg
+│   │   ├── 2364717351.jpg  
+│   │   └── ...
+│   ├── AIS.txt 
+│   ├── radar_track_gt.csv
+│   │   ├──<frame>, <ID>, <Bbox_left>, <Bbox_top>, <Bbox_width>, <Bbox_height>, 1, -1, -1, -1
+│   │   ├──<frame>, <ID>, <Bbox_left>, <Bbox_top>, <Bbox_width>, <Bbox_height>, 1, -1, -1, -1
+│   │   └──...
+│   ├── radar_video.mp4  
+│   ├── visible_track_gt.csv
+│   │   ├──<frame>, <ID>, <Bbox_left>, <Bbox_top>, <Bbox_width>, <Bbox_height>, 1, -1, -1, -1
+│   │   ├──<frame>, <ID>, <Bbox_left>, <Bbox_top>, <Bbox_width>, <Bbox_height>, 1, -1, -1, -1
+│   │   └──...
+│   └── visible_video.mp4  
 │  
-├── dir2/  
-│   ├── sub-dir1/  
-│   │   └── file3.ext  
-│   └── sub-dir2/  
-│  
-└── dir3/  
-    ├── file4.ext  
-    └── file5.ext  
+└── ...  
 ```  
