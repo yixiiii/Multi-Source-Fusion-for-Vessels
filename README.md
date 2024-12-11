@@ -39,4 +39,10 @@ WHUT-MSFVessel/
 ```  
 The WHUT-MSFVessel dataset covers a variety of weather conditions, include sunny, cloudy, rainy, and foggy, fully reflecting the environmental in real navigating scenarios.  
 
-<img width="649" alt="diff_weather" src="https://github.com/user-attachments/assets/3b7dcea6-4010-45db-bde2-0d671e8f08e4">
+<img width="649" alt="diff_weather" src="https://github.com/user-attachments/assets/3b7dcea6-4010-45db-bde2-0d671e8f08e4">  
+
+More detailed information about different scenarios is provided in the following table.  
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
