@@ -1,11 +1,12 @@
 ## Multi-Source Fusion Dataset for Intelligent Vessel(WHUT-MSFVessel)
 The multi-source fusion dataset is partly available at:  https://pan.baidu.com/s/100KGjcVkTfsBWa3NwGPxIA 
 password: WHUT   
- **
-For more content, please contact the corresponding author.**
+
+For more content, please contact the corresponding author.
 
 The WHUT-MSFVessel dataset consists the data collect from different sensors, include AIS receiver, marine radar, and visible camera. All the data are synchronously collected, AIS data is stored in its raw coded format as text formats with timestamp, and radar and visible data are provided as continuous frame, each named with timestamp. All timestamps are accurate to the millisecond. The original format of the multi-source data in the dataset is as follow: 
-![Uploading 20260607203417_16_25.png…]()
+<img width="2171" height="1055" alt="20260607203417_16_25" src="https://github.com/user-attachments/assets/2f0f4d71-b7aa-40e6-a3a9-b1cc5ed44dee" />
+
 
 ## Details
 The data collection platform is positioned perpendicular to the Yangtze River, with deployment coordinates at [114.306087, 30.563549] and a height of 20 meters above the water surface. The data collection spanned 12 months to ensure sufficient diversity in the dataset and each scene data contains the following files:
