@@ -5,7 +5,8 @@ password: WHUT
 For more content, please contact the corresponding author.
 
 The WHUT-MSFVessel dataset consists the data collect from different sensors, include AIS receiver, marine radar, and visible camera. All the data are synchronously collected, AIS data is stored in its raw coded format as text formats with timestamp, and radar and visible data are provided as continuous frame, each named with timestamp. All timestamps are accurate to the millisecond. The original format of the multi-source data in the dataset is as follow: 
-<img width="2171" height="1055" alt="20260607203417_16_25" src="https://github.com/user-attachments/assets/2f0f4d71-b7aa-40e6-a3a9-b1cc5ed44dee" />
+<img width="2171" height="1055" alt="20260607203417_16_25" src="https://github.com/user-attachments/assets/0c83c6ff-e00d-4d62-a339-1c8cadbc4fce" />
+
 
 
 ## Details
