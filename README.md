@@ -3,7 +3,7 @@ The multi-source fusion dataset is partly available at:  https://pan.baidu.com/s
 
 password: WHUT   
 
-Due to copyright restrictions regarding the data, the dataset is partly provided for research purposes only. For further collaboration, please contact the corresponding author.
+Due to copyright restrictions, the dataset is partly provided for research purposes only. For further collaboration, please contact the corresponding author.
 
 The WHUT-MSFVessel dataset consists the data collect from different sensors, include AIS receiver, marine radar, and visible camera. All the data are synchronously collected, AIS data is stored in its raw coded format as text formats with timestamp, and radar and visible data are provided as continuous frame, each named with timestamp. All timestamps are accurate to the millisecond. The original format of the multi-source data in the dataset is as follow: 
 <img width="2171" height="1055" alt="20260607203417_16_25" src="https://github.com/user-attachments/assets/0c83c6ff-e00d-4d62-a339-1c8cadbc4fce" />
